@@ -1,0 +1,23 @@
+# clasp credentials
+.clasprc.json
+
+# Secrets
+.env
+.env.*
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
